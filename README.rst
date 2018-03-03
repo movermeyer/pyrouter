@@ -7,11 +7,11 @@ pyrouter
 .. image:: https://coveralls.io/repos/felixcarmona/pyrouter/badge.png?branch=master
     :target: https://coveralls.io/r/felixcarmona/pyrouter?branch=master
 
-.. image:: https://pypip.in/d/pyrouter/badge.png
+.. image:: https://img.shields.io/pypi/dm/pyrouter.svg
     :target: https://pypi.python.org/pypi/pyrouter/
     :alt: Downloads
 
-.. image:: https://pypip.in/v/pyrouter/badge.png
+.. image:: https://img.shields.io/pypi/v/pyrouter.svg
     :target: https://pypi.python.org/pypi/pyrouter/
     :alt: Latest Version
 
